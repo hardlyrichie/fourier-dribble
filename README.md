@@ -1,2 +1,3 @@
 # fourier-dribble
-Basketball dribble classification with fourier analysis; QEA II Final Project
+Performing fourier analysis and classification on basketball motion data collected using the MATLAB mobile app.
+
